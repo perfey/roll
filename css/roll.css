@@ -3,6 +3,9 @@ html {
 }
 body {
 	text-align: center;
+	margin: 0;
+	padding: 40px 0;
+	min-width: 600px;
 }
 dl, ol, ul {
     list-style: none outside none;
